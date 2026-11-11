@@ -1,0 +1,15 @@
+{
+  "one-shot-paper-figure1.png": {
+    "paper": "https://www.nature.com/articles/s41467-025-63076-z",
+    "figure": 1,
+    "source": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-025-63076-z/MediaObjects/41467_2025_63076_Fig1_HTML.png",
+    "processing": "none"
+  },
+  "manifold-paper-figure4.png": {
+    "paper": "https://doi.org/10.1137/24M1675254",
+    "source": "https://arxiv.org/pdf/2407.05477",
+    "figure": 4,
+    "page": 11,
+    "processing": "crop to the figure, excluding surrounding text and caption"
+  }
+}
